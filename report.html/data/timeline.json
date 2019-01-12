@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-6D9UGE4",
+    "children" : [ {
+      "name" : "8424-MainThread",
+      "children" : [ {
+        "name" : "Testcase.test001",
+        "uid" : "266e0311c3bec1d0",
+        "parentUid" : "40cb7e909bc7976ec0c5892689ed6d57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1547275651235,
+          "stop" : 1547275662768,
+          "duration" : 11533
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "40cb7e909bc7976ec0c5892689ed6d57"
+    } ],
+    "uid" : "b598fa25f772aa1499aa488e72b17b51"
+  } ]
+}

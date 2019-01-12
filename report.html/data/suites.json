@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test001",
+    "children" : [ {
+      "name" : "Testcase.test001",
+      "uid" : "266e0311c3bec1d0",
+      "parentUid" : "e29ccd9b8e6297324eab0f3ebf198da0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1547275651235,
+        "stop" : 1547275662768,
+        "duration" : 11533
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e29ccd9b8e6297324eab0f3ebf198da0"
+  } ]
+}
