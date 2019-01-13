@@ -15,7 +15,7 @@ class Testcase():
 
 
     def test001(self):
-        pass
+        self.driver.find_element_by_css_selector("#kw").send_keys("你好")
 
     def teardown(self):
 
